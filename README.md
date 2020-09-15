@@ -204,12 +204,12 @@ example of how to include the two required CSS files in your
 At this point, you are ready to add, in the `<body>` region of the `index.html`
 file, the code needed to display the provided image that is in the `img/`
 directory. Can you find the source code location where this file name and
-directory must be included? Using the textbook's content in Figure 3.16 and
-Table 3.1, can you write the correct source code that includes the image? Now,
-you are ready to add the five reviews of the photograph. You should include a
-customized version of this source code in your own web site, changing the name,
-time, and emoji to appropriate values. To learn more about each emoji that is
-available for inclusion in your web site, please visit [Emoji
+directory must be included? Using the textbook's content in Figures 3.9, 3.10,
+3.16 and Table 3.1, can you write the correct source code that includes the
+image? Now, you are ready to add the five reviews of the photograph. You should
+include a customized version of this source code in your own web site, changing
+the name, time, and emoji to appropriate values. To learn more about each emoji
+that is available for inclusion in your web site, please visit [Emoji
 CSS](https://afeld.github.io/emoji-css/). Ultimately, your web site should
 contain at least five photograph reviews that follow the format given in the
 following code segment. Finally, students should check the correctness of their
